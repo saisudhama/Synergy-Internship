@@ -31,7 +31,7 @@ public class Task_4 {
             new Student("Peter", 10, 60),
             new Student("John", 5, 50),
             new Student("Bob", 10, 40),
-            new Student("Alice", 10, 30),
+            new Student("Alice", 10, 40),
             new Student("Peter", 7, 20),
             new Student("John", 9, 10)
         );
